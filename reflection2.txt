@@ -1,0 +1,21 @@
+git init
+
+git log --graph --oneline
+
+git commit -m
+
+git show <commitid> 
+
+git checkout <commitid>
+
+git checkout <branchname>
+
+git branch -d <branchname>
+
+git branch -D <branchname>
+
+git branch <branchname>
+
+git merge <branch1> <branch2>
+
+git config --global core.autocrlf true

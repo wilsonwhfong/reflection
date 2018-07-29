@@ -1,0 +1,15 @@
+git log
+
+git status
+
+git log --oneline
+
+git add <filename>
+
+git diff <commit1> <commit2>
+
+git clone <remote repository url>
+
+git config --global core.editor "gedit"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
